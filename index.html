@@ -72,19 +72,19 @@
         <div class="skill-card">
           <img src="assets/images/php.svg" alt="PHP" class="skill-icon" />
           <h3>PHP</h3>
-          <p class="level">Expert • 8+ years</p>
+          <p class="level">Expert • 3+ years</p>
           <p>Proficient in OOP, Laravel, WordPress, REST APIs, and secure backend development.</p>
         </div>
         <div class="skill-card">
           <img src="assets/images/js.svg" alt="JavaScript" class="skill-icon" />
           <h3>JavaScript</h3>
-          <p class="level">Intermediate • 4 years</p>
+          <p class="level">Intermediate • 2 years</p>
           <p>Strong in DOM manipulation, async programming, and modern ES6+. Exploring React and Node.js.</p>
         </div>
         <div class="skill-card">
           <img src="assets/images/python.svg" alt="Python" class="skill-icon" />
           <h3>Python</h3>
-          <p class="level">Beginner • 1 year</p>
+          <p class="level">Beginner • 6 months</p>
           <p>Currently learning for data analysis, automation, and AI/ML applications. Building CLI tools and scripts.</p>
         </div>
       </div>
@@ -189,32 +189,5 @@
       <p>&copy; 2025 Nashon Juma. Crafted with ❤️ using pure HTML & CSS.</p>
     </div>
   </footer>
-
-  <script>
-    // Simple scroll animation for nav
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-        });
-      });
-    });
-
-    // Mobile menu toggle
-    const hamburger = document.querySelector(".hamburger");
-    const navMenu = document.querySelector(".nav-menu");
-
-    hamburger.addEventListener("click", () => {
-      hamburger.classList.toggle("active");
-      navMenu.classList.toggle("active");
-    });
-
-    document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", () => {
-      hamburger.classList.remove("active");
-      navMenu.classList.remove("active");
-    }));
-  </script>
-
 </body>
 </html>

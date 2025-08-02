@@ -25,7 +25,7 @@ This is a personal portfolio website built using only HTML and CSS, showcasing m
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd portfolio
+   cd port2
    ```
 3. **Open Locally**:
    Open `index.html` in a browser to view the portfolio.
