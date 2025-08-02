@@ -35,6 +35,7 @@ This portfolio demonstrates my abilities as a web developer and provides a centr
 ## 📸 Screenshots
 
 <img src="assets/images/portfolio.png" alt="Python" class="skill-icon" />
+
 ---
 
 ## 📂 File Structure
