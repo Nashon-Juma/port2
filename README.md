@@ -39,17 +39,17 @@ This is a personal portfolio website built using only HTML and CSS, showcasing m
 
 ## File Structure
 - `index.html`: Main HTML file with the portfolio structure.
-- `styles.css`: CSS file with all styling, including responsive design and animations.
+- `style.css`: CSS file with all styling, including responsive design and animations.
 - `cv.pdf`: Placeholder for your CV file (replace with your actual CV).
 
 ## Customization
 - **Update Content**: Edit `index.html` to include your personal details, project links, and CV.
-- **Styling**: Modify `styles.css` variables (e.g., `--primary-color`, `--secondary-color`) for color scheme changes.
+- **Styling**: Modify `style.css` variables (e.g., `--primary-color`, `--secondary-color`) for color scheme changes.
 - **Links**: Update GitHub and LinkedIn links in the footer and project section.
 
 ## Notes
 - The contact form is styled for accessibility but requires a backend (e.g., PHP) for functionality, which is not included due to the competition's HTML/CSS constraint.
-- Ensure the `cv.pdf` file is in the project root for the download link to work.
+- Ensure the `nashonjuma.pdf` file is in the project root for the download link to work.
 - The design avoids external libraries to meet competition requirements, relying solely on raw HTML and CSS.
 
 ## Author
