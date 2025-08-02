@@ -29,24 +29,14 @@ This is a personal portfolio website built using only HTML and CSS, showcasing m
    ```
 3. **Open Locally**:
    Open `index.html` in a browser to view the portfolio.
-4. **Deploy to GitHub Pages**:
-   - Push the repository to GitHub.
-   - Go to the repository settings, enable GitHub Pages, and select the `main` branch.
+4. **GitHub Pages**:
    - Access the live site at `https://nashon-juma.github.io/port2`.
-5. **Deploy to Netlify**:
-   - Create a Netlify account and drag the project folder into the Netlify dashboard.
-   - Alternatively, connect your GitHub repository to Netlify for automatic deployment.
 
 ## File Structure
 - `index.html`: Main HTML file with the portfolio structure.
 - `style.css`: CSS file with all styling, including responsive design and animations.
 - `cv.pdf`: your actual CV).
 
-## Customization
-- **Update Content**: Edit `index.html` to include your personal details, project links, and CV.
-- **Styling**: Modify `style.css` variables (e.g., `--primary-color`, `--secondary-color`) for color scheme changes.
-
 ## Notes
-- The contact form is styled for accessibility but requires a backend (e.g., PHP) for functionality, which is not included due to the competition's HTML/CSS constraint.
-- Ensure the `nashonjuma.pdf` file is in the project root for the download link to work.
-- The design avoids external libraries to meet competition requirements, relying solely on raw HTML and CSS.
+- The contact form is styled for accessibility but currently has no backend for functionality, which is not included due to the competition's HTML/CSS constraint.
+- The design avoids external libraries  relying solely on raw HTML and CSS.
